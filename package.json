@@ -1,0 +1,23 @@
+{
+  "name": "orm-practise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkarsh98146/Node_ORM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utkarsh98146/Node_ORM/issues"
+  },
+  "homepage": "https://github.com/utkarsh98146/Node_ORM#readme",
+  "description": "",
+  "dependencies": {
+    "prisma": "^6.5.0"
+  }
+}
